@@ -1,7 +1,11 @@
 {
-  "dependencies": ["."],
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "."
+  ],
   "graphs": {
-    "agent": "./my_agent/agent.py:graph"
+    "agent": "./freechat/agent.py:graph"
   },
   "env": ".env"
 }
