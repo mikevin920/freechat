@@ -3,7 +3,7 @@ name = "freechat"
 version = "0.1.0"
 description = "Example LangGraph project for deployment to LangGraph Cloud"
 authors = [
-    "langchain-ai"
+    "Openrecovery"
 ]
 packages = [
     { include = "freechat" },
